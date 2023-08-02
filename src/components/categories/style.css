@@ -1,0 +1,16 @@
+.category-item {
+  @apply bg-indigo-500 px-6 py-10 text-white cursor-pointer hover:bg-pink-400 transition-all text-center min-w-[145px] flex items-center justify-center;
+}
+
+.category-item {
+  font-size: 20px; /* Dilediğiniz uygun boyutu belirleyebilirsiniz */
+  padding: 16px 18px; /* İstenilen aralığı belirleyebilirsiniz */
+  margin-bottom: 1px;
+}
+.category-item:last-child {
+  margin-bottom: 0; /* Son öğenin altındaki boşluğu kaldırır */
+}
+
+.category-item span {
+  overflow-wrap: break-word;
+}
