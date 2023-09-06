@@ -1,5 +1,4 @@
-# NOT
-Kodları detaylı incelemek için src klasörüne bakabilirsiniz.
+# NOT: Kodları detaylı incelemek için src klasörüne bakabilirsiniz.
 
 # Getting Started with Create React App
 
